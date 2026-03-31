@@ -1,8 +1,8 @@
 # 📚 Digital Literacy Project
 
 ## 👨‍🎓 Student Details
-- **Name:** Manthan  
-- **Course/Branch:** B.Tech (Your Branch)  
+- **Name:** Manthan Chandrawanshi
+- **Course/Branch:** B.Tech (CSE aiml)  
 - **Year:** 1st Year  
 
 ---
@@ -98,8 +98,8 @@ This project helped me understand the importance of digital literacy in academic
 ---
 
 ## 🔗 Platforms Used
-- GitHub  
-- LinkedIn  
+- GitHub link - https://github.com/manthanco8
+- LinkedIn  - https://www.linkedin.com/feed/
 - HackerRank  
-- Google Forms  
+- Google Forms -https://docs.google.com/forms/d/e/1FAIpQLScieGyzGhgC3rPs_VRCbNiKsk097s6r-Pk_wVsCv8VGPfbmFw/viewform?usp=dialog 
 - Canva  
